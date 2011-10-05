@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "anu_union_court/signs/co_op_store"
+	"$decal" 1
+	"$decalscale" 0.3
+	"$translucent" 1
+}
