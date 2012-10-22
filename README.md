@@ -1,3 +1,13 @@
+# Overview
+
+A recreation of the ANU Union Court created for the Source (Half-Life 2) game engine. Some sample images are listed below:
+
+![Sample image](https://raw.github.com/torbensko/ANU-in-HL2/master/screenshots/anu_union_court0000.jpg)
+![Sample image](https://raw.github.com/torbensko/ANU-in-HL2/master/screenshots/anu_union_court0005.jpg)
+![Sample image](https://raw.github.com/torbensko/ANU-in-HL2/master/screenshots/anu_union_court0007.jpg)
+![Sample image](https://raw.github.com/torbensko/ANU-in-HL2/master/screenshots/anu_union_court0009.jpg)
+
+
 # Legal
 
 This map is provided under a Creative Commons Attribution license (http://creativecommons.org/licenses/by/3.0/). As such, you are free to use it for any purpose as long as you remember to mention my name (Torben Sko) at some point.
